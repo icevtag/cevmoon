@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, eu sou o Carlos Verginio
 
-<!--
-**cevmoon/cevmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje em dia trabalho com Front-end e Back-end
+- 🌱 Estudando React
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.linkedin.com/in/carlosev/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cevmoon&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevmoon&layout-compact&langs_count-16&theme=radical">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-HTML" height="30" width"40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Carlos-CSS" height="30" width"40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Carlos-JS" height="30" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Carlos-REACT" height="30" width"40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Carlos-NJS" height="30" width"40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
+
+##
+
+<div>
+  <a href="https://www.instagram.com/cevmoon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/nzFmv2fBvU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
