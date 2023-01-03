@@ -1,8 +1,8 @@
-### Olá, eu sou o Carlos Verginio
+### Hi, my name is Carlos Verginio
 
-- 🔭 Hoje em dia trabalho com Front-end e Back-end
-- 🌱 Estudando React
-- 😄 Pronomes: Ele/Dele
+- 💻 Software engineer
+- 🎓 Sistemas de informação
+- 🚹 Ele/Dele : He/Him
 
 <div>
   <a href="https://www.linkedin.com/in/carlosev/">
@@ -21,7 +21,6 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/cevmoon" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/nzFmv2fBvU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.twitch.tv/istoned2"_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
