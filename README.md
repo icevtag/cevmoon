@@ -1,7 +1,7 @@
 ### Hi, my name is Carlos Verginio
 
 - 💻 Software engineer
-- 🎓 Sistemas de informação
+- 🎓 Bacharelado em Sistemas de informação
 - 🚹 Ele/Dele : He/Him
 
 <div>
