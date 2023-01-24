@@ -14,9 +14,6 @@
 <img align="left" height="280px" width="300px" alt="coding-time" src="https://cdn.discordapp.com/attachments/1057043644739223554/1060004417702740068/1672762460595.gif">
   <img align="center" alt="Carlos-HTML" height="30" width"40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Carlos-CSS" height="30" width"40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Carlos-JS" height="30" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Carlos-REACT" height="30" width"40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Carlos-NJS" height="30" width"40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 ##
