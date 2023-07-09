@@ -4,7 +4,7 @@
   <h1>Hi, my name is Carlos Verginio</h1>
 
   💻 Software engineer<br>
-  🎓 Bacharelado em Sistemas de informação<br>
+  🎓 Bachelor of Information Systems<br>
   🚹 Ele/Dele : He/Him<br>
 
   <div>
@@ -12,15 +12,6 @@
      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevmoon&layout-compact&langs_count=16&theme=radical">
   </div>
 
-  <div align="center">
-     <div style="display: inline_block"><br>
-        <img align="left" height="280px" width="300px" alt="coding-time" src="https://cdn.discordapp.com/attachments/1057043644739223554/1060004417702740068/1672762460595.gif">
-        <img align="center" alt="Carlos-HTML" height="35" width="45" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-        <img align="center" alt="Carlos-CSS" height="35" width="45" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-        <img align="center" alt="Carlos-Java" height="35" width="45" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-        <img align="center" alt="Carlos-Kotlin" height="35" width="45" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-        <img align="center" alt="Carlos-Python" height="35" width="45" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-     </div>
   </div>
 
   <div align="center">     
